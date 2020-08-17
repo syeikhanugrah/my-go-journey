@@ -1,0 +1,1 @@
+This chapter is about go module, dependencies and namespacing in golang.
